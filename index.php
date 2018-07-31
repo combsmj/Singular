@@ -1,4 +1,3 @@
 <?php
-  echo "Hello World!";
-  echo "Codenvy Rocks!";
+  echo "Hello World! Codenvy Rocks!";
 ?>
